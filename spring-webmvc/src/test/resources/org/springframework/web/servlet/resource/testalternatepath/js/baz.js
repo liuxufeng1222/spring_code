@@ -1,0 +1,1 @@
+function foo() { console.("hello world"); }
